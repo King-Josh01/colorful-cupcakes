@@ -1,11 +1,13 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #3a86ff;
-    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium','Times New Roman', Times, serif;
+    background-color: #573aff62;
+    color: rgba(26, 20, 20, 0.849);
 }
 
 .cupcake {
     display: flex;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .flex1 {
